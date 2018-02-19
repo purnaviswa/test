@@ -1,3 +1,4 @@
 this is simple note example 
 committed changes
 rice in master
+Hi this test for Pull Request
