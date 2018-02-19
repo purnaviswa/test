@@ -1,4 +1,5 @@
 this is simple note example 
+rice
 
 this is changed in branch1
 
